@@ -1,21 +1,6 @@
 # geoninjas
 
-> real time chat web app
+> real time web app that you can chat with users on the map.
 
-## Build Setup
+The website is hosted at https://geo-postwall.firebaseapp.com
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
