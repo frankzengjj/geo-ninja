@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 import firestore from 'firebase/firestore'
 var firebaseConfig = {
-    apiKey: "AIzaSyDP4bt3HliQy8uqITPLIZz6JQCW3cwNEho",
+    apiKey: "YOUR_KEY",
     authDomain: "geo-postwall.firebaseapp.com",
     databaseURL: "https://geo-postwall.firebaseio.com",
     projectId: "geo-postwall",
